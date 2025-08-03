@@ -23,7 +23,10 @@ GUVI_HCL_Project1
 │ └── dataset.csv # Source dataset
 │
 ├── 📂 screenshots
-│ └── 
+│ └── Screenshot (429).png
+│ └── Screenshot (430).png
+│ └── Screenshot (431).png
+│ └── Screenshot (432).png
 │
 ├── 📂 tableau
 │ └── Purchase_behavior_analysis.twbx # Tableau workbook
